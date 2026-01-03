@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アストロノーツ / 椎名もた (covered by ちょまいよ)",
+  "base_artist": "ちょまいよ / chomaiyo",
+  "createdAt": "2026-01-03T14:11:07.971134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "椎名もた",
+      "has_synced": true,
+      "path": "select/01_アストロノーツ_椎名もた.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/02_アストロノーツ_優里.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "椎名もた",
+      "has_synced": true,
+      "path": "select/03_アストロノーツ_椎名もた.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "椎名もた feat. 抱きしめたトゥナイト",
+      "has_synced": true,
+      "path": "select/04_アストロノーツ_椎名もた_feat._抱きしめたトゥナイト.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/05_アストロノーツ_majiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "Siina, Mota feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/06_アストロノーツ_Siina,_Mota_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アストロノーツ",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/07_アストロノーツ_Yuuri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アストロノーツ -オーケストラアレンジver.-",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/08_アストロノーツ_-オーケストラアレンジver.-_Yuuri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アストロノーツ",
+      "artist": "ちょまいよ",
+      "has_synced": false,
+      "path": "select/pl_01_アストロノーツ_ちょまいよ.txt"
+    }
+  ]
+}
